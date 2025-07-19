@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components\\\\Portfolio.tsx -> ./ParticlesComponent\":{\"id\":\"components\\\\Portfolio.tsx -> ./ParticlesComponent\",\"files\":[\"static/chunks/_app-pages-browser_src_components_ParticlesComponent_tsx.js\"]}}"
